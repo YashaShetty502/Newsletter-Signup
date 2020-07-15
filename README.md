@@ -7,6 +7,12 @@ The data is stored in Mailchimp subscriber list using their API.⚡ You can also
 
 Here's the link👉:https://mailchimp.com/developer/
 
+npm packages required⚡:
+1. express
+2. body-parser
+3. https
+4. request
+
 # Demo👀
 
 <img src="https://github.com/YashaShetty502/Newsletter-Signup/blob/master/public/images/Newsletter.gif" alt = "Signup Demo" width="80%">
