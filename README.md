@@ -9,3 +9,5 @@ Here's the link👉:https://mailchimp.com/developer/
 
 # Demo👀
 
+<img src="https://github.com/YashaShetty502/Newsletter-Signup/blob/master/public/images/Newsletter.gif" alt = "Signup Demo" width="80%">
+
